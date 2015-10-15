@@ -26,3 +26,5 @@ p Cohort.find(10)
 p Cohort.create(:name => 'Olanda')
 p Student.create(:cohort_id => 13, :first_name => 'holand', :last_name => 'dao', :email => 'dingdong@gmail.com', :gender => 'f', :birthdate => '1982-12-24')
 p Cohort.all
+
+p "hahahahaha"
