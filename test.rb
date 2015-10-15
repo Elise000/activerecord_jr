@@ -28,3 +28,5 @@ p Student.create(:cohort_id => 13, :first_name => 'holand', :last_name => 'dao',
 p Cohort.all
 
 p "hahahah"
+
+p "lol"
